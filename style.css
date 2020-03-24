@@ -1,0 +1,9 @@
+html {
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	width: 90%;
+	max-width: 40em;
+	margin: 0 auto;
+}
